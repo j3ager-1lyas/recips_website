@@ -26,6 +26,10 @@ body {
     height:20vh;
     justify-content:center;
 }
+.headcore img {
+    height : 20vh;
+    width:auto;
+}
 .hero {
     width:400px;
 }
